@@ -10,16 +10,27 @@ An interactive dashboard is created to make the analysis easy to understand and 
 
 🔹**DATASET**
 The dataset contains cricket players’ career statistics.
+
 Key columns include:
+
 Player Name
+
 Matches Played
+
 Runs Scored
+
 Batting Average
+
 Strike Rate
+
 Centuries (100s)
+
 Half-centuries (50s)
+
 Number of 4s and 6s
+
 Career Span (years)
+
 The dataset is used to compare players and analyze performance trends.
 
 
